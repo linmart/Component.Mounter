@@ -1,0 +1,9 @@
+OldVersions
+*.log
+*.bak
+*.stl
+*.m3~
+~$*
+*.stp
+*.zip
+~*~
